@@ -11,8 +11,6 @@ The website asks you for a website url which is blocked in your current location
 - Expressjs
 - Puppeteer
 
-#### Logging Into the Chat App..... :wave: :wave: :wave:
-
 ![Image of Vpn Website](https://media0.giphy.com/media/ITnFvZzKO6HobI6dO7/giphy.gif)
 
 #### How To Use
